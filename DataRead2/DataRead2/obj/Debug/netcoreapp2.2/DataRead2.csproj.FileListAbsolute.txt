@@ -1,0 +1,11 @@
+F:\asp.net_core_project\DataRead2\DataRead2\bin\Debug\netcoreapp2.2\DataRead2.deps.json
+F:\asp.net_core_project\DataRead2\DataRead2\bin\Debug\netcoreapp2.2\DataRead2.runtimeconfig.json
+F:\asp.net_core_project\DataRead2\DataRead2\bin\Debug\netcoreapp2.2\DataRead2.runtimeconfig.dev.json
+F:\asp.net_core_project\DataRead2\DataRead2\bin\Debug\netcoreapp2.2\DataRead2.dll
+F:\asp.net_core_project\DataRead2\DataRead2\obj\Debug\netcoreapp2.2\DataRead2.csprojAssemblyReference.cache
+F:\asp.net_core_project\DataRead2\DataRead2\obj\Debug\netcoreapp2.2\DataRead2.csproj.CoreCompileInputs.cache
+F:\asp.net_core_project\DataRead2\DataRead2\obj\Debug\netcoreapp2.2\DataRead2.AssemblyInfoInputs.cache
+F:\asp.net_core_project\DataRead2\DataRead2\obj\Debug\netcoreapp2.2\DataRead2.AssemblyInfo.cs
+F:\asp.net_core_project\DataRead2\DataRead2\bin\Debug\netcoreapp2.2\DataRead2.pdb
+F:\asp.net_core_project\DataRead2\DataRead2\obj\Debug\netcoreapp2.2\DataRead2.dll
+F:\asp.net_core_project\DataRead2\DataRead2\obj\Debug\netcoreapp2.2\DataRead2.pdb
